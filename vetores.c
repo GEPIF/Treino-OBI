@@ -2,7 +2,7 @@
 
 void main() {
 	// vetor de 3 valores
-	// começando a partir do 0 e indo ate 2, [0..2]
+	// comeï¿½ando a partir do 0 e indo ate 2, [0..2]
   	int vetor[3];
   	// [][][]
   	// vetor[0] = 1
@@ -18,10 +18,10 @@ void main() {
 
 	// leitura de valores
 	// origem ate um limite
-	// 1º passagem = "i = 0", i++
-	// 2º passagem = "i = 1", i++
-	// 3º passagem = "i = 2", i++
-	// 4º passagem = "i = 3"
+	// 1ï¿½ passagem = "i = 0", i++
+	// 2ï¿½ passagem = "i = 1", i++
+	// 3ï¿½ passagem = "i = 2", i++
+	// 4ï¿½ passagem = "i = 3"
   	for(int i = 0; i < 3; i++) {
   		// declara variavel x
     	int x;
